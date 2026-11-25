@@ -8,7 +8,8 @@
 
 </head>
 <body>
-    <h1>Buku Tamu KU</h1>    
+    <h1>Buku Tamu KU</h1> 
+    <H2>halo pak Setyo</H2>
     <form action="proses.php" method="post">   
     <label for="nama">Nama</label>
     <input id="nama" name="nama" type="text" required maxlength="80">
